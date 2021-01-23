@@ -22,6 +22,7 @@ Animated!
 * unidecode: https://pypi.org/project/Unidecode/
 * collections: https://docs.python.org/3/library/collections.html
 * pygame:https://www.pygame.org/news
+* re: https://docs.python.org/3/library/re.html
 
 ###### TO DO:
 Honestly probably done with this guy. Really just made it because I myself was interested. I learned a lot about matplotlib and youtube's api however.
